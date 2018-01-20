@@ -1,0 +1,17 @@
+P 5
+R 12
+Q 15
+S 30
+KISHAN 5
+HARSH 12
+ASHU 15
+DEEP 30
+a 25
+b 10
+i 15
+j 15
+c 3
+x 35
+y 7
+d 4
+DHARIT 20

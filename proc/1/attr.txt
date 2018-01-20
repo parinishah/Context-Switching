@@ -1,0 +1,8 @@
+
+Thread ID      = -186288384
+Policy         = 0
+Priority       = 0
+Stack Size     = 801000
+Stack Size     = 0xf4657000 (8392704)bytes
+Guard Size     = 4096
+Stack address  = 0x7f97f4657000 

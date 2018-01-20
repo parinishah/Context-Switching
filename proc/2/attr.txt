@@ -1,0 +1,8 @@
+
+Thread ID      = 0
+Policy         = 0
+Priority       = 0
+Stack Size     = 0
+Stack Size     = 0x0 (0)bytes
+Guard Size     = 0
+Stack address  = (nil) 
